@@ -16,7 +16,5 @@ public class GeneroInputDTO {
 	@Length(max = 100)
 	private String descricao;
 
-
-	
 	
 }
